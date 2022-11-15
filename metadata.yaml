@@ -1,0 +1,27 @@
+_repo: The-Radio-Girls-on-Station-Island-The-wireless-from-the-steam-yacht_69317
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Penrose, Margaret
+    gutenberg_agent_id: '1022'
+    url: http://www.gutenberg.org/2009/agents/1022
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_Penrose
+description: ''
+gutenberg_issued: '2022-11-09'
+identifiers:
+  gutenberg: '69317'
+language: en
+pgterms:marc905: 20220621181010penrose
+pgterms:marc906: '1922'
+pgterms:marc907: us
+production_note: David Edwards, Graeme Mackreth and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United States: Cupples & Leon Company,1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Radio Girls on Station Island: The wireless from the steam yacht'
+url: http://www.gutenberg.org/ebooks/69317
